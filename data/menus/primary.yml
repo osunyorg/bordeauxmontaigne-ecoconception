@@ -7,12 +7,16 @@
   target: "/conversations/dev/"
   kind: category
   children: []
-- title: Conversations
-  target: "/conversations/"
-  kind: posts
-  children: []
 - title: UX
   target: "/conversations/ux/"
   kind: category
+  children: []
+- title: UI
+  target: "/conversations/ui/"
+  kind: category
+  children: []
+- title: Conversations
+  target: "/conversations/"
+  kind: posts
   children: []
 
