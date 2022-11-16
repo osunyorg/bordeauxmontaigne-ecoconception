@@ -1,2 +1,2 @@
-posts:          /actualites/:year/:month/:day/:slug/
-categories:     /actualites/:slug/
+posts:          /conversations/:year/:month/:day/:slug/
+categories:     /conversations/:slug/
