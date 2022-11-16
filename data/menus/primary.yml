@@ -8,7 +8,7 @@
   kind: category
   children: []
 - title: UX
-  target: "/conversations/ux/"
+  target: "/conversations/ux-design/"
   kind: category
   children: []
 - title: UI
