@@ -7,7 +7,7 @@
   target: "/"
   kind: page
   children:
-  - title: dev
+  - title: Développement web
     target: "/dev/"
     kind: page
     children: []
