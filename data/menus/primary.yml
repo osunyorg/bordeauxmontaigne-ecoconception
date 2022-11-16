@@ -15,7 +15,7 @@
     target: "/ux/"
     kind: page
     children: []
-- title: Capsules
+- title: Conversations
   target: "/conversations/"
   kind: posts
   children: []
