@@ -15,4 +15,8 @@
     target: "/ux/"
     kind: page
     children: []
+- title: Capsules
+  target: "/actualites/"
+  kind: posts
+  children: []
 
