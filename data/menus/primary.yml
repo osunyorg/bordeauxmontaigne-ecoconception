@@ -3,7 +3,7 @@
   target: "/pourquoi-eco-concevoir/"
   kind: page
   children: []
-- title: Développement Web
+- title: Dev
   target: "/conversations/dev/"
   kind: category
   children: []
