@@ -11,10 +11,6 @@
     target: "/dev/"
     kind: page
     children: []
-  - title: UX Design
-    target: "/ux/"
-    kind: page
-    children: []
 - title: Conversations
   target: "/conversations/"
   kind: posts
