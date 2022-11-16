@@ -6,5 +6,9 @@
 - title: Leçons
   target: "/"
   kind: page
-  children: []
+  children:
+  - title: 'UX '
+    target: "/"
+    kind: page
+    children: []
 
