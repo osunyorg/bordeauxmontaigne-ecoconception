@@ -3,16 +3,16 @@
   target: "/pourquoi-eco-concevoir/"
   kind: page
   children: []
-- title: Leçons
-  target: "/"
-  kind: page
-  children:
-  - title: Développement
-    target: "/dev/"
-    kind: page
-    children: []
+- title: Développement Web
+  target: "/conversations/dev/"
+  kind: category
+  children: []
 - title: Conversations
   target: "/conversations/"
   kind: posts
+  children: []
+- title: UX
+  target: "/conversations/ux/"
+  kind: category
   children: []
 
