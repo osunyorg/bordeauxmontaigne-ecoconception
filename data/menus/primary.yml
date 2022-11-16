@@ -6,9 +6,5 @@
 - title: Leçons
   target: "/"
   kind: page
-  children:
-  - title: Leçons
-    target: "/"
-    kind: blank
-    children: []
+  children: []
 
