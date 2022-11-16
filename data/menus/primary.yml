@@ -11,7 +11,7 @@
     target: "/dev/"
     kind: page
     children: []
-  - title: 'UX '
+  - title: UX Design
     target: "/ux/"
     kind: page
     children: []
