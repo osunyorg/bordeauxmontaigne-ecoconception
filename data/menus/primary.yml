@@ -3,4 +3,12 @@
   target: "/pourquoi-eco-concevoir/"
   kind: page
   children: []
+- title: Leçons
+  target: "/"
+  kind: page
+  children:
+  - title: dev
+    target: "/dev/"
+    kind: page
+    children: []
 
