@@ -1,2 +1,4 @@
 posts:          /conversations/:year/:month/:day/:slug/
 categories:     /conversations/:slug/
+persons:        /equipe/:slug/
+authors:        /equipe/:slug/conversations/
