@@ -15,7 +15,7 @@
   target: "/conversations/ui/"
   kind: category
   children: []
-- title: Conversations
+- title: Toutes les conversations
   target: "/conversations/"
   kind: posts
   children: []
