@@ -1,13 +1,2 @@
-@font-face
-    font-display: swap
-    font-family: 'Inter'
-    font-style: normal
-    font-weight: 400
-    src: url('/assets/fonts/inter-v12-latin-300.woff2') format("woff2"), url('/assets/fonts/inter-v12-latin-300.woff') format("woff")
-
-@font-face
-    font-display: swap
-    font-family: 'Inter'
-    font-style: normal
-    font-weight: 700
-    src: url('/assets/fonts/inter-v12-latin-700.woff2') format("woff2"), url('/assets/fonts/inter-v12-latin-700.woff') format("woff")
+@include font-face("Inter", inter-v12-latin-300, $weight: 400, $exts: (woff2 woff))
+@include font-face("Inter", inter-v12-latin-700, $weight: 700, $exts: (woff2 woff))
