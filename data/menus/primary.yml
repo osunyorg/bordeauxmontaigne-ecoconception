@@ -1,22 +1,22 @@
 ---
 - title: Pourquoi éco-concevoir ?
-  target: "/fr/pourquoi-eco-concevoir/"
+  target: "/pourquoi-eco-concevoir/"
   kind: page
   children: []
 - title: Dev
-  target: "/fr/conversations/dev/"
+  target: "/conversations/dev/"
   kind: category
   children: []
 - title: UX
-  target: "/fr/conversations/ux-design/"
+  target: "/conversations/ux-design/"
   kind: category
   children: []
 - title: UI
-  target: "/fr/conversations/ui/"
+  target: "/conversations/ui/"
   kind: category
   children: []
 - title: Toutes les conversations
-  target: "/fr/conversations/"
+  target: "/conversations/"
   kind: posts
   children: []
 
