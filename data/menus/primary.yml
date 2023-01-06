@@ -17,6 +17,6 @@
   children: []
 - title: Toutes les conversations
   target: "/conversations/"
-  kind: posts
+  kind: page
   children: []
 
