@@ -3,6 +3,7 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params: 
+  plausible: ecoconception.mmibordeaux.com
   image_sizes:
     sections:
       posts:
