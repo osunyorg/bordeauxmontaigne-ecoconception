@@ -6,14 +6,13 @@ fr:
   languageCode: fr
   languageName: Français
   permalinks:
-    categories: /conversations/:slug/
     posts: /conversations/:year-:month-:day-:slug/
+    posts_categories: /conversations/:slug/
     persons: /equipe/:slug/
     authors: /equipe/:slug/conversations/
   taxonomies:
     administrator: administrators
     author: authors
-    category: categories
     posts_category: posts_categories
     events_category: events_categories
     diploma: diplomas
