@@ -9,3 +9,5 @@ params:
       posts:
         item:
           desktop:  1600
+  debug:
+     productionUrl: "https://ecoconception.mmibordeaux.com"
