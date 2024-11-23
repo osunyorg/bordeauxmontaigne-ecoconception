@@ -11,6 +11,9 @@ fr:
   permalinks:
     posts: /conversations/:year-:month-:day-:slug/
     posts_categories: /conversations/:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
+    authors: /equipe/:slug/conversations/
   taxonomies:
     administrator: administrators
     author: authors
