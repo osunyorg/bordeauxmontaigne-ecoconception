@@ -5,25 +5,30 @@ items:
   target: "/pourquoi-eco-concevoir/"
   kind: page
   children: []
+  path: "/pages/pourquoi-eco-concevoir"
   file: content/fr/pages/pourquoi-eco-concevoir/_index.html
 - title: Dev
   target: "/conversations/dev/"
   kind: category
   children: []
+  path: "/posts_categories/dev"
   file: content/fr/posts_categories/dev/_index.html
 - title: UX
   target: "/conversations/ux-design/"
   kind: category
   children: []
+  path: "/posts_categories/ux-design"
   file: content/fr/posts_categories/ux-design/_index.html
 - title: UI
   target: "/conversations/ui/"
   kind: category
   children: []
+  path: "/posts_categories/ui"
   file: content/fr/posts_categories/ui/_index.html
 - title: Toutes les conversations
   target: "/conversations/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 
