@@ -4,30 +4,35 @@ items:
 - title: Pourquoi éco-concevoir ?
   target: "/pourquoi-eco-concevoir/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/pourquoi-eco-concevoir"
   file: content/fr/pages/pourquoi-eco-concevoir/_index.html
 - title: Dev
   target: "/conversations/dev/"
   kind: category
+  new_tab: false
   children: []
   path: "/posts_categories/dev"
   file: content/fr/posts_categories/dev/_index.html
 - title: UX
   target: "/conversations/ux-design/"
   kind: category
+  new_tab: false
   children: []
   path: "/posts_categories/ux-design"
   file: content/fr/posts_categories/ux-design/_index.html
 - title: UI
   target: "/conversations/ui/"
   kind: category
+  new_tab: false
   children: []
   path: "/posts_categories/ui"
   file: content/fr/posts_categories/ui/_index.html
 - title: Toutes les conversations
   target: "/conversations/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
