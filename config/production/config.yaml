@@ -2,6 +2,11 @@
 
 baseURL: https://ecoconception.mmibordeaux.com
 
+## OSUNY
+osuny:
+  website:
+    id: c36e7c7b-4532-4443-bcd9-9d303787fc8b
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
