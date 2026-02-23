@@ -7,6 +7,11 @@ osuny:
   website:
     id: c36e7c7b-4532-4443-bcd9-9d303787fc8b
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "ecoconception.mmibordeaux.com"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
