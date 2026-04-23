@@ -13,3 +13,80 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/fr/plan-du-site/"
+to = "/plan-du-site/"
+
+[[redirects]]
+from = "/fr/conversations/"
+to = "/conversations/"
+
+[[redirects]]
+from = "/fr/conversations/dev/"
+to = "/conversations/dev/"
+
+[[redirects]]
+from = "/fr/equipe/emma-guillaume/"
+to = "/equipe/emma-guillaume/"
+
+[[redirects]]
+from = "/fr/equipe/equipe-editoriale/"
+to = "/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/conversations/2022/11/16/conversation-avec-julien-wilhelm/"
+to = "/conversations/2022-11-16-conversation-avec-julien-wilhelm/"
+
+[[redirects]]
+from = "/fr/conversations/ux-design/"
+to = "/conversations/ux-design/"
+
+[[redirects]]
+from = "/conversations/2022/11/17/yuna-orsini/"
+to = "/conversations/2022-11-17-yuna-orsini/"
+
+[[redirects]]
+from = "/conversations/2022/11/17/conversation-avec-nicolas-paries/"
+to = "/conversations/2022-11-17-conversation-avec-nicolas-paries/"
+
+[[redirects]]
+from = "/fr/"
+to = "/"
+
+[[redirects]]
+from = "/fr/politique-de-confidentialite/"
+to = "/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/fr/pourquoi-eco-concevoir/"
+to = "/pourquoi-eco-concevoir/"
+
+[[redirects]]
+from = "/fr/accessibilite/"
+to = "/accessibilite/"
+
+[[redirects]]
+from = "/fr/conversations/ui/"
+to = "/conversations/ui/"
+
+[[redirects]]
+from = "/conversations/2022/11/17/conversation-avec-florian-guillanton/"
+to = "/conversations/2022-11-17-conversation-avec-florian-guillanton/"
+
+[[redirects]]
+from = "/fr/equipe/emma-guillaume/conversations/"
+to = "/equipe/emma-guillaume/conversations/"
+
+[[redirects]]
+from = "/fr/mentions-legales/"
+to = "/mentions-legales/"
+
+[[redirects]]
+from = "/fr/equipe/"
+to = "/equipe/"
+
+[[redirects]]
+from = "/conversations/2022/11/17/conversation-avec-arnaud-levy/"
+to = "/conversations/2022-11-17-conversation-avec-arnaud-levy/"
+
