@@ -15,78 +15,78 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/fr/plan-du-site/"
+from = "/fr/plan-du-site/index.html"
 to = "/plan-du-site/"
 
 [[redirects]]
-from = "/fr/conversations/"
+from = "/fr/conversations/index.html"
 to = "/conversations/"
 
 [[redirects]]
-from = "/fr/conversations/dev/"
+from = "/fr/conversations/dev/index.html"
 to = "/conversations/dev/"
 
 [[redirects]]
-from = "/fr/equipe/emma-guillaume/"
+from = "/fr/equipe/emma-guillaume/index.html"
 to = "/equipe/emma-guillaume/"
 
 [[redirects]]
-from = "/fr/equipe/equipe-editoriale/"
+from = "/fr/equipe/equipe-editoriale/index.html"
 to = "/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/conversations/2022/11/16/conversation-avec-julien-wilhelm/"
+from = "/conversations/2022/11/16/conversation-avec-julien-wilhelm/index.html"
 to = "/conversations/2022-11-16-conversation-avec-julien-wilhelm/"
 
 [[redirects]]
-from = "/fr/conversations/ux-design/"
+from = "/fr/conversations/ux-design/index.html"
 to = "/conversations/ux-design/"
 
 [[redirects]]
-from = "/conversations/2022/11/17/yuna-orsini/"
+from = "/conversations/2022/11/17/yuna-orsini/index.html"
 to = "/conversations/2022-11-17-yuna-orsini/"
 
 [[redirects]]
-from = "/conversations/2022/11/17/conversation-avec-nicolas-paries/"
+from = "/conversations/2022/11/17/conversation-avec-nicolas-paries/index.html"
 to = "/conversations/2022-11-17-conversation-avec-nicolas-paries/"
 
 [[redirects]]
-from = "/fr/"
+from = "/fr/index.html"
 to = "/"
 
 [[redirects]]
-from = "/fr/politique-de-confidentialite/"
+from = "/fr/politique-de-confidentialite/index.html"
 to = "/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/fr/pourquoi-eco-concevoir/"
+from = "/fr/pourquoi-eco-concevoir/index.html"
 to = "/pourquoi-eco-concevoir/"
 
 [[redirects]]
-from = "/fr/accessibilite/"
+from = "/fr/accessibilite/index.html"
 to = "/accessibilite/"
 
 [[redirects]]
-from = "/fr/conversations/ui/"
+from = "/fr/conversations/ui/index.html"
 to = "/conversations/ui/"
 
 [[redirects]]
-from = "/conversations/2022/11/17/conversation-avec-florian-guillanton/"
+from = "/conversations/2022/11/17/conversation-avec-florian-guillanton/index.html"
 to = "/conversations/2022-11-17-conversation-avec-florian-guillanton/"
 
 [[redirects]]
-from = "/fr/equipe/emma-guillaume/conversations/"
+from = "/fr/equipe/emma-guillaume/conversations/index.html"
 to = "/equipe/emma-guillaume/conversations/"
 
 [[redirects]]
-from = "/fr/mentions-legales/"
+from = "/fr/mentions-legales/index.html"
 to = "/mentions-legales/"
 
 [[redirects]]
-from = "/fr/equipe/"
+from = "/fr/equipe/index.html"
 to = "/equipe/"
 
 [[redirects]]
-from = "/conversations/2022/11/17/conversation-avec-arnaud-levy/"
+from = "/conversations/2022/11/17/conversation-avec-arnaud-levy/index.html"
 to = "/conversations/2022-11-17-conversation-avec-arnaud-levy/"
 
